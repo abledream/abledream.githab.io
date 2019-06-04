@@ -7,7 +7,7 @@ html, body {
 	background-color: #FEF8EA;
 }
 #head {
-	width: 1000px;
+	width: 1200px;
 	height: 700px;
 	background-color: white;
 	margin: 0 auto;
@@ -17,4 +17,6 @@ html, body {
 	font-size: 32px;
 	font-weight: bold;
 	color: #231F1F;
+	margin-top: 40px;
+	margin-left: 20px;
 }
